@@ -202,7 +202,10 @@ transform: scale(2);
 	}
 }
 .prototip{
-	padding:  0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding:  10px 0;
 	margin-top:40px;
 	background: #545454;
 	border:solid 3px #f4f4ea;
